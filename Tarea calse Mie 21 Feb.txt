@@ -1,0 +1,33 @@
+Git init
+P:
+F:
+Git Config
+P:
+F:
+Git add
+P:
+F:
+Git commit
+P:
+F:
+Git push
+P:
+F:
+Git pull
+P:
+F:
+Git Branch
+P:
+F:
+Git checkout
+P:
+F:
+Github
+P:
+F:
+Github Pages
+P:
+F:
+Wiki
+P:
+F:
