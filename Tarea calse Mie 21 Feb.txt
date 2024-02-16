@@ -1,33 +1,33 @@
 Git init
 P:
-F:
+F: Create an empty Git repository or reinitialize an existing one (Git - git-init Documentation. (s. f.). https://git-scm.com/docs/git-init)
 Git Config
 P:
-F:
+F: Get and set repository or global options (Git - git-config Documentation. (s. f.). https://git-scm.com/docs/git-config)
 Git add
 P:
-F:
+F: Add file contents to the index (Git - git-add Documentation. (s. f.). https://www.git-scm.com/docs/git-add)
 Git commit
 P:
-F:
+F: Record changes to the repository (Git - git-commit Documentation. (s. f.). https://git-scm.com/docs/git-commit)
 Git push
 P:
-F:
+F: Update remote refs along with associated objects (Git - git-push Documentation. (s. f.). https://git-scm.com/docs/git-push) 
 Git pull
 P:
-F:
+F: Fetch from and integrate with another repository or a local branch (Git - git-pull Documentation. (s. f.). https://git-scm.com/docs/git-pull)
 Git Branch
 P:
-F:
+F: List, create, or delete branches (Git - git-branch Documentation. (s. f.). https://git-scm.com/docs/git-branch)
 Git checkout
 P:
-F:
+F: Switch branches or restore working tree files (Git - git-checkout Documentation. (s. f.). https://git-scm.com/docs/git-checkout)
 Github
 P:
-F:
+F: GitHub es una plataforma de desarrollo colaborativo que aloja proyectos en la nube utilizando el sistema de control de versiones llamado Git. Ayuda a los desarrolladores a almacenar y administrar el código llevando un registro de cambios. Generalmente el código es abierto, lo que permite realizar proyectos compartidos y mantener el seguimiento detallado de su progreso.  (Saavedra, J. A. (2023, 4 junio). Qué es Github y para qué sirve: una guía para principiantes. Ebac. https://ebac.mx/blog/que-es-github)
 Github Pages
 P:
-F:
+F: GitHub Pages es un servicio de alojamiento de sitio estático que toma archivos HTML, CSS y JavaScript directamente desde un repositorio en GitHub, opcionalmente ejecuta los archivos a través de un proceso de complilación y publica un sitio web. (Acerca de GitHub Pages - documentación de GitHub. (s. f.). GitHub Docs. https://docs.github.com/es/pages/getting-started-with-github-pages/about-github-pages)
 Wiki
 P:
-F:
+F: Básicamente, una página de wiki es una página web que cualquiera puede crear, directamente desde el navegador de Internet, sin que necesiten saber de programación. Un wiki empieza con una portada. Cada autor puede añadir otras páginas al wiki, simplemente creando un enlace hacia una página nueva. En pocas palabras, un wiki es un método rápido para crear contenido como grupo. (Esqueda, M. (2021, 6 julio). ¿Qué son los wikis y para qué sirven? Lumag Digital. https://www.lumagdigital.com/post/qu%C3%A9-son-los-wikis-y-para-qu%C3%A9-sirven)
