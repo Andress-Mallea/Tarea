@@ -1,33 +1,33 @@
-Git init
-P:
+﻿Git init
+P: P[or lo que entiendo esta funcion lo que hace es crear un repositorio Git o reactivar uno ya existente en la parte local.
 F: Create an empty Git repository or reinitialize an existing one (Git - git-init Documentation. (s. f.). https://git-scm.com/docs/git-init)
 Git Config
-P:
+P: Este comando te ayuda a hacer muchas cosas en gneral pero principalmente te permite elegir o configurar tus identificadores dentro de git a el utilizarlo 
 F: Get and set repository or global options (Git - git-config Documentation. (s. f.). https://git-scm.com/docs/git-config)
 Git add
-P:
+P: Esta funcion lo que hace es añadir un archivo dentro de la carpeta seleccionada a una lista de archivos a añadir para el repositor git en el cual se este trabajando
 F: Add file contents to the index (Git - git-add Documentation. (s. f.). https://www.git-scm.com/docs/git-add)
 Git commit
-P:
+P: Esta funcion lo que hace es funcionar como una confirmacion para el añadimiento de los archivos añadidos con la funcion de git add, al repositorio  
 F: Record changes to the repository (Git - git-commit Documentation. (s. f.). https://git-scm.com/docs/git-commit)
 Git push
-P:
+P: Esta funcion lo que hace es el actulizar los archivos de un repositor remoto con los del repositor git local en el cual se estuvo trabajndo
 F: Update remote refs along with associated objects (Git - git-push Documentation. (s. f.). https://git-scm.com/docs/git-push) 
 Git pull
-P:
+P: Esta funcion o comando lo que hace es añadir los archivos de una rama selecionada de un repositorio remoto de manera que la caprte local endonde se encuentra el git los resiva  
 F: Fetch from and integrate with another repository or a local branch (Git - git-pull Documentation. (s. f.). https://git-scm.com/docs/git-pull)
 Git Branch
-P:
+P: Esta funcion o comando tiene varias funciones pues este se puede utilizar tanto par acrear, eliminar y gestionar las diferentes ramas del repositorio en el cual se esta trabajando.
 F: List, create, or delete branches (Git - git-branch Documentation. (s. f.). https://git-scm.com/docs/git-branch)
 Git checkout
-P:
+P: Este comando o funcion te permite el cambio entre las diferentes ramas de el repositorio en el cual esres trabajando como tambien la restauracion de archivos locales con ayuda de la rama de un repositor remoto
 F: Switch branches or restore working tree files (Git - git-checkout Documentation. (s. f.). https://git-scm.com/docs/git-checkout)
 Github
-P:
+P: Git es una pagina web/plataforma/red social en la cual se pueden alojar diferentes proyectos en la nube, siendo que funciona mas que todo como un sitema de control de las diferentes etapas del desarrollo de los proyectos atraves de una herramienta llamada git. Como tambien ayuda a el almacenamiento de versiones anteriores del proyecto y un registro de los cambios echos al mismo. Esto de resaltar no solo de manera individual si no tambien cooperativa.
 F: GitHub es una plataforma de desarrollo colaborativo que aloja proyectos en la nube utilizando el sistema de control de versiones llamado Git. Ayuda a los desarrolladores a almacenar y administrar el código llevando un registro de cambios. Generalmente el código es abierto, lo que permite realizar proyectos compartidos y mantener el seguimiento detallado de su progreso.  (Saavedra, J. A. (2023, 4 junio). Qué es Github y para qué sirve: una guía para principiantes. Ebac. https://ebac.mx/blog/que-es-github)
 Github Pages
-P:
+P: Este a mi entedimiento en un serviocio en el cual se pueden alojar de una manera estatica archivos HTML, CSS y JavaScript directamente desde un repositorio de git hub
 F: GitHub Pages es un servicio de alojamiento de sitio estático que toma archivos HTML, CSS y JavaScript directamente desde un repositorio en GitHub, opcionalmente ejecuta los archivos a través de un proceso de complilación y publica un sitio web. (Acerca de GitHub Pages - documentación de GitHub. (s. f.). GitHub Docs. https://docs.github.com/es/pages/getting-started-with-github-pages/about-github-pages)
 Wiki
-P:
+P: Una wiki hace referencia las paginas mas primitivas por desirlo de una manera pues son creadas desde el mismo navegador de internet en uso. Sin el uso minimo de la programcion y la capacidad de añadir mas wikis a la misma por medio de la creacion de un enlace a esas nuevas wikis 
 F: Básicamente, una página de wiki es una página web que cualquiera puede crear, directamente desde el navegador de Internet, sin que necesiten saber de programación. Un wiki empieza con una portada. Cada autor puede añadir otras páginas al wiki, simplemente creando un enlace hacia una página nueva. En pocas palabras, un wiki es un método rápido para crear contenido como grupo. (Esqueda, M. (2021, 6 julio). ¿Qué son los wikis y para qué sirven? Lumag Digital. https://www.lumagdigital.com/post/qu%C3%A9-son-los-wikis-y-para-qu%C3%A9-sirven)

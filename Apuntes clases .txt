@@ -1,11 +1,11 @@
-Software
-P:
+﻿Software
+P: Software hace referencia a toda la parte intangible de las aplicaciones, procesadores, etc
 F: Se considera que el software es el equipamiento lógico e intangible de un ordenador. En otras palabras, el concepto de software abarca a todas las aplicaciones informáticas, como los procesadores de textos, las planillas de cálculo, los editores de imágenes, los reproductores de audio y los videojuegos, entre otras muchas.(Porto, J. P., & Gardey, A. (2021, 4 mayo). Software - Qué es, definición, tipos y ramas. Definición.de. https://definicion.de/software/)
 Ing de Software
-P:
+P: La ing de software hace referencia a la ingeniería la cual estudia el funcionamiento y creación de programas informáticos, sistemas informáticos, etc.
 F: La ingeniería de software es una disciplina formada por un conjunto de métodos, herramientas y técnicas que se utilizan en el desarrollo de programas informáticos, más conocidos como softwares. (Martín, I. (2024, 5 enero). ¿Qué es y qué utilidad tiene la Ingeniería de Software? Teknei. https://www.teknei.com/2021/11/09/que-es-y-que-utilidad-tiene-la-ingenieria-de-software/)
 Git
-P:
+P:Yo entiendo Git como un proyecto el cual ayuda a mantener una mayor constancia de los cambios echos a un proyecto
 F: Git es un proyecto de código abierto muy bien respaldado con más de una década de gestión de gran fiabilidad. Los encargados de mantener el proyecto han demostrado un criterio equilibrado y un enfoque maduro para satisfacer las necesidades a largo plazo de sus usuarios con publicaciones periódicas que mejoran la facilidad de uso y la funcionalidad. (Atlassian. (s. f.). Qué es Git | Atlassian Git Tutorial. https://www.atlassian.com/es/git/tutorials/what-is-git)
 Programacion:
 P: La es el acto de programar o organizar una secuencia de pasos ordenados a realizar
@@ -18,29 +18,29 @@ Compilador:
 P:LOs complidarres son programas  los cuales tienen la capacidad de transformar a binario las instruciones dadas por el lenguaje de programacion y asi poder completar la comunicacion entre el lenguajee y la computadora
 F: Un compilador es, a grandes rasgos, un traductor. Es el encargado de transformar el código fuente del programa que hemos creado (generalmente usando un lenguaje de alto nivel), junto con todas las dependencias y librerías necesarias para que el programa pueda ejecutarse y funcionar sin problemas, en un archivo binario. Este compilador se encarga de comprobar que no hay errores en el código (para evitar fallos críticos), así como de analizar y agrupar la sintaxis y la estructura del programa. Si todo está correcto, lo pasa a un lenguaje intermedio común, ensamblador, para, posteriormente, optimizarlo y traducirlo a lenguaje binario. De esta manera, a través del sistema operativo, el programa se puede ejecutar en la máquina. (Velasco, R. (2021, 1 junio). Sin él no existirían los programas: qué es un compilador. SoftZone. https://www.softzone.es/programas/lenguajes/que-es-compilador/)
 Ciclo de Desarrollo de Software
-P:
+P: Yo entiendo esto como las etapas de desarrollo de un software deseado 
 F: El ciclo de vida de un software es una secuencia estructurada y bien definida de las etapas en ingeniería de software para desarrollar el software deseado. (Solbyte. (2022, 25 abril). Ciclo de vida de un software: qué es, modelo, etapas | Solbyte. Blog Solbyte. https://www.solbyte.com/blog/ciclo-de-vida-del-software/)
 este ciclo se contiene de 
-1. Planificacion:
+1. Planificacion: 
 P:Durante esta fase del desarrollo mediante la recolecta de informacion se comianza a estructurar y planificar el plan de desarrollo del programa siendo que esta fase se consideran  cosas tales como
 F: En esta fase se incluyen tareas como la determinación del ámbito del proyecto, un estudio de viabilidad, análisis de riesgos, costes estimados, asignación de recursos en las distintas etapas, etc. (Solbyte. (2022, 25 abril). Ciclo de vida de un software: qué es, modelo, etapas | Solbyte. Blog Solbyte. https://www.solbyte.com/blog/ciclo-de-vida-del-software/)
 2. Analisis:
-P:
+P: Yo entiendo esto como el entendimiento de los requisitos dados para el desarrollo coherente del software para que este no coste de carencias o consistencia
 F: Revisión de los requisitos componiéndolos como un todo coherente, revisando si existen carencias o inconsistencias. (Ciclo de vida en el Desarrollo de Software, primera parte 2022. (2021, 28 octubre). IEDGE Business School. https://www.iedge.eu/pablo-almunia-ciclo-de-vida-en-el-desarrollo-de-software-primera-parte)
 3. Diseño:
-P:
+P:El diseño al menos por lo que yo entiendo con hacer concierne a la fase después de la indicación de los requisitos donde se crean prototipos los cuales incluyen los diferentes procesos de diseños al igual que dentro de estos diseño se prototipos aclara una idea de los soltado final para el cliente. Al igual que se toman en consideración diferentes cuestión está escoriza cliente, usabilidad, etc. Ya para el final de este tapa del desarrollo del equipo y de contar con documentos de diseño de los cuales hay en indicó patrones y los diferentes componentes elegidos para el proyecto al igual que un código el cual sea utilizar como va a ser el partido para el desarrollo del mismo.
 F: Los desarrolladores y arquitectos de software comienzan a diseñar el software después de haber identificado los requisitos. A menudo, la creación rápida de prototipos también se incluye en el proceso de diseño. Esto genera una idea más clara del resultado final desde el punto de vista del cliente final, y permite incluir importantes cuestiones como la experiencia de cliente, usabilidad, etcétera. Este enfoque requiere una comparación de las soluciones que existen en el mercado a través de estudios y análisis detallados. Al final de esta fase, los equipos obtienen documentos de diseño con los patrones y componentes elegidos para el proyecto, y el código utilizado como punto de partida para una ampliación de las necesidades de desarrollo. (TRPlane. (2021, 16 octubre). Comprender el ciclo de Cida de Desarrollo de Software (SLDC). TRPlane.com. https://www.trplane.com/comprender-el-ciclo-de-cida-de-desarrollo-de-software-sldc/)
 4. Inplementacion/ Codificacion:
-P:
+P: A mi entendimiento esto hace referencia a la implementacion por medio de los diferestes lenguajes de programcion de las diferentes caracteristica del software desarrollado.
 F: Implementación de las diferentes funcionalidades por medio de lenguajes de programación o parametrización de paquetes o sistemas preexistentes (Ciclo de vida en el Desarrollo de Software, primera parte 2022. (2021, 28 octubre). IEDGE Business School. https://www.iedge.eu/pablo-almunia-ciclo-de-vida-en-el-desarrollo-de-software-primera-parte)
 5. Testing:
-P:
+P: Esta etapa hace referencia a la prueba de la funcinalidad del software como programa y como producto, al igual que la identificacion de errores dentro del misimo o caracteristicas que le cliente quiera cambiar.
 F: Se estima que el 50% de todos los procesos de desarrollo de software deberían ser evaluados. Los errores pueden arruinar el software tanto a nivel crítico y hasta el punto de ser eliminado. Las pruebas de Software se hacen mientras se codifica y suelen hacerlo los desarrolladores y otros expertos evaluadores a varios niveles. Esto incluye evaluación de módulos, evaluación del programa, evaluación del producto, evaluación interna y finalmente evaluación con el consumidor final. Encontrar errores y su remedio a tiempo es la llave para conseguir un software fiable. (Software - ciclo de vida de desarrollo. (s. f.). https://www.tutorialspoint.com/es/software_engineering/software_development_life_cycle.htm)
 6. Integracion:
-P:
+P: Esta fase hace referencia a la integracion de diferentes infrestructuras tales como libreiras, bases de datos , entre otros, los cuales ayuden al funcionamiento correcto del software pedido una vez que este haya salido a el mundo exterior.
 F: El Software puede necesitar estar integrado con las bibliotecas, Bases de datos o con otro u otros programas. Esta fase del SDLC se focaliza en la integración del software con las entidades del mundo exterior. (Software - ciclo de vida de desarrollo. (s. f.). https://www.tutorialspoint.com/es/software_engineering/software_development_life_cycle.htm)
 7. Matenimiento
-P:
+P: Esta have referencia a el cuidado o revision del buen funcionamiento del programa, al igual que la reparacion de rrores los cuales no hayan sido detectados en las otras fases, como tambien la implementacion de cambios a el mismo a pedido del cliente en caso que sea necesario adaptarlo a otras plataformas o el paso del tiempo en general.
 F: Cuando el software pasa por todas las etapas sin complicaciones, se realiza un ciclo de mantenimiento en el que se actualiza y modifica cada cierto tiempo para adaptarse a los cambios y realizar mejoras sobre el mismo. (TRPlane. (2021, 16 octubre). Comprender el ciclo de Cida de Desarrollo de Software (SLDC). TRPlane.com. https://www.trplane.com/comprender-el-ciclo-de-cida-de-desarrollo-de-software-sldc/) 
 Especificacion de requisitos de Software
 P: Estos son lass expectativas, diseño, estandares, requistos de los usuarios y su finalidad como producto
