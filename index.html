@@ -1,0 +1,58 @@
+#include <iostream>
+#include <cmath>
+using namespace std;
+
+string exercise_1(string str){
+    string letter ;
+    letter = str[0];
+    int str_size=str.size();
+    int i = 0;
+    string str1 = "";
+    while (i < str_size){
+        if (str[i] == 'b' || str[i] == 'f' ||str[i] == 'p' ||str[i] == 'v'){
+            str1 += "1";
+        }
+        else if (str[i] == 'c' ||str[i] == 'g' ||str[i] == 'j' ||str[i] == 'k' ||str[i] == 'q' ||str[i] == 's' ||str[i] == 'x' ||str[i] == 'z'){
+            str1 += "2";
+        }
+        else if (str[i] == 'd' || str[i] == 't'){
+            str1 += "3";
+        }
+        else if (str[i] == 'l'){
+            str1 += "4";
+        }
+        else if (str[i] == 'm' || str[i] == 'n'){
+            str1 += "5";
+        }
+        else if (str[i] == 'r'){
+            str1 += "6";
+        }
+        ++i;
+    }
+    int o = 1;
+    int str1_size=str1.size();
+    string str2;
+    str2 += str1[0] ;
+    while (o<str1_size){
+        if (str1[o] != str1[o-1]){
+            str2 += str1[o];
+        }
+        ++o;
+    }
+    string result = letter + str2;
+    int result_size = result.size();
+    if (result_size < 4 ){
+            result.resize(4, '0');
+    }
+    else if (result_size > 4){
+        result.resize(4);
+    }
+    cout<< result << endl;
+    return str2;
+}
+int main() {
+    // Write C++ code here
+    exercise_1("manna");
+
+    return 0;
+}
